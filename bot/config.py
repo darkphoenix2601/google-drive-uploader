@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "2099861976:AAEA4Z6HdMiKsCHpdWx8h0cAWo9-eZ3LlLc"
+    APP_ID = "3992490"
+    API_HASH = "3f35dd969e3248ba10c0d515381e1e78"
+    DATABASE_URL = "postgres://pnrflqow:W6bA8lTJzha-U_Z_VxPLUGMvKiEZumIy@fanny.db.elephantsql.com/pnrflqow"
+    SUDO_USERS = "1821298557" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/Darkphoenix_Support"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
